@@ -1,3 +1,7 @@
 # news-classifier
  
-ETL pipeline to extract, classify news articles into respective catagories and then save it in a SQL database.
+- Uses ETL
+- Extracts data from RSS feeds
+- Transforms them and classfies them
+- Stores data in SQL database
+- Also generates output as csv
